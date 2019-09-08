@@ -16,19 +16,19 @@
         }
     ],
     "require": {
-        "composer/installers": "^1.2",
         "cweagans/composer-patches": "^1.6",
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal/admin_toolbar": "^1.20",
         "drupal/console": "^1.0.1",
-        "drupal/core": "~8.0",
+        "drupal/core": "^8.7",
         "drupal/devel": "^1.2",
         "drupal/draggableviews": "^1.0",
         "drupal/ds": "^3.1",
         "drupal/imce": "^1.6",
         "drush/drush": "~8.0",
         "webflo/drupal-finder": "^1.0.0",
-        "webmozart/path-util": "^2.3"
+        "webmozart/path-util": "^2.3",
+        "webflo/drupal-core-strict": "^8.7"
     },
     "require-dev": {
         "behat/mink": "~1.7",
