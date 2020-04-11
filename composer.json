@@ -21,6 +21,8 @@
         "drupal/admin_toolbar": "^2.0",
         "drupal/console": "^1.0.1",
         "drupal/core": "^8.8",
+        "drupal/devel": "^2.0",
+        "drupal/redirect": "^1.3",
         "drush/drush": "~8.0",
         "webflo/drupal-core-strict": "^8.8",
         "webflo/drupal-finder": "^1.0.0",
